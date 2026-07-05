@@ -1,0 +1,6 @@
+{
+  "name": "ResolveAI",
+  "description": "AI-Powered Complaint Resolution Assistant with sentiment analysis, priority mapping, response drafting, and resolution metrics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
